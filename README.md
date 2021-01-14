@@ -11,9 +11,9 @@
 
 <br />
 
-[<img align="left" alt="jethrinfox.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jethrinfox | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="jethrinfox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jethrinfox.github.io" width="22px" color="orange" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jethrinfox | Facebook" width="22px" color="orange" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="jethrinfox | LinkedIn" width="22px" color="orange" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -32,8 +32,6 @@ Hands-on experience with GraphQL & REST APIs made with TypeScript.
 ---
 
 ## I'm currently #openToWork
-
----
 
 ### Languages and Tools:
 
