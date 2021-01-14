@@ -2,21 +2,38 @@
 
 ## I'm a Guitarist, Developer, Boyfriend & Father (of 2 Dogs :)!!
 
--   🌱 I’m currently learning [NextJS][https://nextjs.org/] 🤣
+-   🌱 I’m currently learning [NextJS](https://nextjs.org/)
 -   👯 I’m looking to meet more developers
--   🥅 2020 Goals: Contribute to Open Source projects
+-   🥅 2021 Goals: Contribute to Open Source projects
 -   ⚡ Fun fact: I love to play guitar / drums
 
 ### Connect with me:
 
 <br />
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jethrinfox.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jethrinfox | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="jethrinfox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+---
+
+<br />
+
+## About me
+
+Over 7+ years of IT experience which includes 2+ years of Extensive experience as a React JS Developer and 3 years of experience as a Web Developer.
+
+Experienced in MERN stack development Mongo dB, Express, Node, and React.
+
+Hands-on experience with GraphQL & REST APIs made with TypeScript.
+
+---
+
+## I'm currently #openToWork
+
+---
 
 ### Languages and Tools:
 
@@ -37,8 +54,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
----
 
 [website]: https://jethrinfox.github.io/
 [facebook]: https://www.facebook.com/felipe.malacarne.9/
